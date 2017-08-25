@@ -43,7 +43,7 @@
                      <li><a class="smoothscroll" href="#about">About</a></li>
                      <li><a class="smoothscroll" href="#resume">Resume</a></li>
                      <li><a class="smoothscroll" href="#portfolio">Works</a></li>
-                     <li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>
+                     <!--<li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>-->
                      <li><a class="smoothscroll" href="#contact">Contact</a></li>
                   </ul>
                   <!-- end #nav -->
@@ -82,7 +82,7 @@
                   </div>
                   <div class="nine columns main-col">
                      <h2>About Me</h2>
-                     <p>Mobile application developer with around 4 years of apps development experience. Over the years, have worked on challenging projects which keep boosting me to learn, explore, implement new and challenging things, also have played roles in almost every aspects of the software development.</br></br>
+                     <p>Mobile application developer with around 4 years of apps development experience. Over the years, have worked on challenging projects which keep boosting me to learn, explore, implement new and challenging things, also have played roles in almost every aspect of the software development.</br></br>
                         - Communicate with users, technical teams, and management to collect requirements, describe software product features and technical designs.</br>
                         - Requirement Analysis & Project Documentation</br>
                         - Ability to translate business requirements into working solution</br>
@@ -243,7 +243,7 @@
                                  <div class="overlay">
                                     <div class="portfolio-item-meta">
                                        <h5>My Anroid Projects</h5>
-                                       <p>List of apps</p>
+                                       <!--<p>List of apps</p>--> 
                                     </div>
                                  </div>
                                  <div class="link-icon"><i class="icon-plus"></i></div>
@@ -258,7 +258,6 @@
                                  <div class="overlay">
                                     <div class="portfolio-item-meta">
                                        <h5>Trekking</h5>
-                                       <p>Web Development</p>
                                     </div>
                                  </div>
                                  <div class="link-icon"><i class="icon-plus"></i></div>
@@ -269,11 +268,10 @@
                         <div class="columns portfolio-item">
                            <div class="item-wrap">
                               <a href="#modal-03" title="">
-                                 <img class="crop" alt="" src="images/portfolio/marathon-logo.jpg">
+                                 <img class="crop" alt="" src="images/portfolio/running-logo.jpg">
                                  <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                       <h5>Marathon</h5>
-                                       <p>Webdesign</p>
+                                       <h5>10K</h5>
                                     </div>
                                  </div>
                                  <div class="link-icon"><i class="icon-plus"></i></div>
@@ -287,8 +285,7 @@
                                  <img class="crop" alt="" src="images/portfolio/donate-logo.png">
                                  <div class="overlay">
                                     <div class="portfolio-item-meta">
-                                       <h5>Into The Light</h5>
-                                       <p>Photography</p>
+                                       <h5>Blood Donation</h5>
                                     </div>
                                  </div>
                                  <div class="link-icon"><i class="icon-plus"></i></div>
@@ -303,53 +300,90 @@
                   <!-- Modal Popup
                      --------------------------------------------------------------- -->
                   <div id="modal-01" class="popup-modal mfp-hide">
-                     <img class="scale-with-grid" src="images/portfolio/modals/donate-blood-and-save-lives.jpg" alt="" />
+                     <!--<img class="scale-with-grid" src="images/portfolio/modals/m-project-list.jpg" alt="" />-->
                      <div class="description-box">
-                        <h4>My Android Projects</h4>	
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-                        <span class="categories"><i class="fa fa-tag"></i>Apps</span>
+                        <h4>My Android Projects:</h4>	
+                        <!--<p>Most helpful projects are .</p>-->
+                        <!--<span class="categories"><i class="fa fa-tag"></i>Apps</span>-->
+                        <ul>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.ebarcode.andoid" target="_blank">eBarcode</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.krtya.simplyopt" target="_blank">SimplyOPT</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.startsso.identacor" target="_blank">Identacor</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.webopac" target="_blank">AJS mobOPAC</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.givr.android" target="_blank">Givr</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.krtya.mybackoffice" target="_blank">MyBackOffice</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.krtya.mybustransport" target="_blank">MyBusTransport</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.dynamicdreamz.timeconverter" target="_blank">Time Converter</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.dynamicdreamz.educationwithfun" target="_blank">Kids Education with Fun</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.fiducadia" target="_blank">Fiducadia</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.tcitg" target="_blank">TCITG</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.flashpoll" target="_blank">FlashPoll</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.dynamicdreamz.spotit" target="_blank">SpotIt</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.dynamicdreamz.myvault" target="_blank">All Share and Shop</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.dynamicdreamz.pokemongohacks" target="_blank">Hacks and Guide for Pokemon Go</a></li>
+                        <li><a href="https://play.google.com/store/apps/details?id=com.invenit.notificationblocker" target="_blank" >Notification Blocker</a></li>	
+                     	</ul>
                      </div>
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <!--<a href="http://www.behance.net">Details</a>-->
                         <a class="popup-modal-dismiss">Close</a>
                      </div>
                   </div>
                   <!-- modal-01 End -->
                   <div id="modal-02" class="popup-modal mfp-hide">
-                     <img class="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />
+                     <img class="scale-with-grid" src="images/portfolio/modals/m-trekking.jpg" alt="" />
                      <div class="description-box">
-                        <h4>Console</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-                        <span class="categories"><i class="fa fa-tag"></i>Branding, Web Development</span>
+                        <h4>Trekking</h4>
+                        <ul>
+                        <li><a href="https://goo.gl/photos/XvU5e9W2KE3x2q5B8" target="_blank">Bhimashankar</a></li>
+                        <li><a href="https://goo.gl/photos/5oVqPt2SU6LAAAqY9" target="_blank">Kalavantin Durg</a></li>
+                        <li><a href="https://goo.gl/photos/xM2BEVTEL8WGtqLr9" target="_blank">UNESCO World Heritage National Sunderban</a></li>
+                        <li><a href="https://goo.gl/photos/nicJ9d2eww8iC1ej7" target="_blank">Imgaica & Lavasa</a></li>
+                        <li><a href="https://goo.gl/photos/gbWc4z1Tt25F8rAy7" target="_blank">ShandhanValley</a></li>
+                        <li><a href="https://goo.gl/photos/qpbnta2nWgTE2irg7" target="_blank">McLeodGanj</a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                     	</ul>
                      </div>
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
                         <a class="popup-modal-dismiss">Close</a>
                      </div>
                   </div>
                   <!-- modal-02 End -->
                   <div id="modal-03" class="popup-modal mfp-hide">
-                     <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
+                     <img class="scale-with-grid" src="images/portfolio/modals/m-running.jpg" alt="" />
                      <div class="description-box">
-                        <h4>Judah</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-                        <span class="categories"><i class="fa fa-tag"></i>Branding</span>
+                        <h4>Running</h4>
+                        <ul>
+                        <li><a href="https://www.facebook.com/chitrang.patel.200889/posts/538251919684307" target="_blank">ValsadCity HalfMarathon - 20160117</a></li>
+                        <li><a href="https://www.facebook.com/media/set/?set=a.551824978327001.1073741842.100004985104877&type=1&l=d0f125adaa" target="_blank">Surat Night Marathon - 20160216</a></li>
+                        <li><a href="https://www.facebook.com/media/set/?set=a.238237506352418.1073741829.100004985104877&type=1&l=0cd3936a20" target="_blank">Vadodara Marathon - 20131215</a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                        <li><a href="" target="_blank"></a></li>
+                     	</ul>
                      </div>
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
                         <a class="popup-modal-dismiss">Close</a>
                      </div>
                   </div>
                   <!-- modal-03 End -->
                   <div id="modal-04" class="popup-modal mfp-hide">
-                     <img class="scale-with-grid" src="images/portfolio/modals/donate-blood-and-save-lives.jpg" alt="" />
+                     <img class="scale-with-grid" src="images/portfolio/modals/m-donate-blood-and-save-lives.jpg" alt="" />
                      <div class="description-box">
-                        <h4>Into the Light</h4>
-                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-                        <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+                        <h4>Blood Donation</h4>
+                        <p>The blood you donate gives someone another chance at life. One day that someone may be a close relative, a friend, a loved one—or even you.</p>
                      </div>
                      <div class="link-box">
-                        <a href="http://www.behance.net">Details</a>
+                        <a href="http://www.wikihow.com/Donate-Blood">Details</a>
                         <a class="popup-modal-dismiss">Close</a>
                      </div>
                   </div>
@@ -390,6 +424,7 @@
                </section> --><!-- Call-To-Action Section End-->
             <!-- Testimonials Section
                ================================================== -->
+            <!--   
             <section id="testimonials">
                <div class="text-container">
                   <div class="row">
@@ -408,7 +443,7 @@
                                     <cite>Steve Jobs</cite>
                                  </blockquote>
                               </li>
-                              <!-- slide ends -->
+                              <!-- slide ends 
                               <li>
                                  <blockquote>
                                     <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
@@ -418,17 +453,18 @@
                                     <cite>Mr. Adobe</cite>
                                  </blockquote>
                               </li>
-                              <!-- slide ends -->
+                              <!-- slide ends
                            </ul>
                         </div>
-                        <!-- div.flexslider ends -->
+                        <!-- div.flexslider ends
                      </div>
-                     <!-- div.flex-container ends -->
+                     <!-- div.flex-container ends
                   </div>
-                  <!-- row ends -->
+                  <!-- row ends
                </div>
-               <!-- text-container ends -->
+               <!-- text-container ends
             </section>
+            -->
             <!-- Testimonials Section End-->
             <!-- Contact Section
                ================================================== -->
