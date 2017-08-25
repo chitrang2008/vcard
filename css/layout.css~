@@ -337,8 +337,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .testing {
   	width: 60%;
-  	-moz-animation: testing 2s ease;
-  	-webkit-animation: testing 2s ease;
+  	-moz-animation: wordpress 2s ease;
+  	-webkit-animation: wordpress 2s ease;
 }
 .communication {
   	width: 90%;
