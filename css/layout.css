@@ -960,13 +960,18 @@ footer .copyright  li:first-child:before {
     display: none;
 }
 
-/* social links */
-footer .social-links {
-   margin: 18px 0 30px 0;
+/* social links new */
+div#divsocial {
+   width: 100%;
+   text-align: center;
+}
+    
+#divsocial .social-links-new {
+   margin: 0 0 60px 0;
    padding: 0;
    font-size: 30px;
 }
-footer .social-links li {
+#divsocial .social-links-new li {
     display: inline-block;
     margin: 0;
     padding: 0;
@@ -974,7 +979,7 @@ footer .social-links li {
     color: #F06000;
 }
 
-footer .social-links li:first-child { margin-left: 0; }
+#divsocial .social-links-new li:first-child { margin-left: 0; }
 
 /* Go To Top Button */
 #go-top {
